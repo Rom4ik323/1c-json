@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="dc99bd0b-3a37-4a2b-8544-4f63c8c7ca22">
+  <producedTypes>
+    <objectType typeId="cd788135-6e92-4691-9990-b154759e9894" valueTypeId="82b5379f-3948-44a5-b37f-608800cc547f"/>
+  </producedTypes>
+  <name>ВыгрузкаМетаданныхJSON</name>
+  <synonym>
+    <key>ru</key>
+    <value>Выгрузка метаданных в JSON</value>
+  </synonym>
+  <comment>Выгрузка метаданных, их реквизитов и табличных частей в json</comment>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="3a443b5d-6a1a-420a-9dc4-7c3053c671b4"/>
+  <defaultForm>ExternalDataProcessor.ВыгрузкаМетаданныхJSON.Form.Форма</defaultForm>
+  <help>
+    <pages>
+      <lang>ru</lang>
+    </pages>
+  </help>
+  <forms uuid="78ef6eda-51cb-4a49-bed7-f6f26f717322">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>
